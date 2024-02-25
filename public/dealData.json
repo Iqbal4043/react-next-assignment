@@ -1,0 +1,45 @@
+[
+    {
+      "imageSrc": "/image/download 1.png",
+      "discount": {
+        "percentage": "20% Off",
+        "limitedTime": "Limited time"
+      },
+      "title": "Webbuilder 1",
+      "description": "Computer Modern classic with Wix support",
+      "price": {
+        "original": "$49.96",
+        "discounted": "$39.96",
+        "discountLabel": "(20% Off)"
+      }
+    },
+    {
+        "imageSrc": "/image/download 1.png",
+        "discount": {
+          "percentage": "20% Off",
+          "limitedTime": "Limited time"
+        },
+        "title": "Webbuilder 1",
+        "description": "Computer Modern classic with Wix support",
+        "price": {
+          "original": "$49.96",
+          "discounted": "$39.96",
+          "discountLabel": "(20% Off)"
+        }
+      },
+      {
+        "imageSrc": "/image/download 1.png",
+        "discount": {
+          "percentage": "20% Off",
+          "limitedTime": "Limited time"
+        },
+        "title": "Webbuilder 1",
+        "description": "Computer Modern classic with Wix support",
+        "price": {
+          "original": "$49.96",
+          "discounted": "$39.96",
+          "discountLabel": "(20% Off)"
+        }
+      }
+  ]
+  
